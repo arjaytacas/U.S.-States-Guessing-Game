@@ -1,2 +1,2 @@
 # pandas-practice-python
-Included in my daily python practices
+Pandas practice making a guess the state game
