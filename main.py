@@ -1,7 +1,5 @@
 from turtle import Screen, Turtle
-
 import pandas
-
 from game_engine import GameEngine
 
 screen = Screen()
