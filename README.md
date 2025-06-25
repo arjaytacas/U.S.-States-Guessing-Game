@@ -36,3 +36,21 @@ cd us-states-guessing-game
 ```
 pip install pandas
 ```
+3. Make sure 50_states.csv and blank_states_img.gif are in the same directory.
+4. Run the game:
+```bash
+python main.py
+```
+📁 Files
+main.py: Main logic to run the game
+
+game_engine.py: Class that manages score and state tracking
+
+50_states.csv: Data file with state names and coordinates
+
+blank_states_img.gif: U.S. map image for the game background
+
+states_to_learn.csv: Automatically generated list of missed states
+
+📄 License
+This project is for educational use.
